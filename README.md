@@ -1,2 +1,2 @@
-# muonline_blog
-Simple blog about game
+Simple Blog MuOnline
+
